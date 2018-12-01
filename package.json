@@ -1,5 +1,5 @@
 {
-  "name": "shiner",
+  "name": "shinerjs",
   "version": "0.0.1",
   "description": "基于 React、Redux 实现的轻量级前端框架",
   "main": "index.js",
