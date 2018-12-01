@@ -4,7 +4,7 @@
   "description": "基于 React、Redux 实现的轻量级前端框架",
   "main": "index.js",
   "scripts": {
-    "build": "babel src --out-dir lib",
+    "build": "babel src --out-dir dist",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
