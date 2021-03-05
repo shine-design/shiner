@@ -1,0 +1,43 @@
+{
+  "name": "shinerjs",
+  "version": "0.0.2",
+  "description": "基于 React、Redux 实现的轻量级前端框架",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel src --out-dir dist",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shine-design/shiner.git"
+  },
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "global": "^4.3.2",
+    "invariant": "^2.2.1",
+    "lodash-es": "^4.17.4",
+    "react-redux": "^5.0.6",
+    "redux": "^3.7.2"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-plugin-transform-object-rest-spread": "^6.23.0",
+    "babel-preset-env": "^1.6.0",
+    "babel-preset-react": "^6.24.1",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2"
+  },
+  "keywords": [
+    "shiner",
+    "react",
+    "redux",
+    "framework",
+    "shine-design"
+  ],
+  "author": "Longjun.Qu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shine-design/shiner/issues"
+  },
+  "homepage": "https://github.com/shine-design/shiner#readme"
+}
